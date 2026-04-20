@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Titli Bhowmick! 👋
+# I'm Titli Bhowmick! 👋
 
 ### 👩‍💻 About Me
 - 🎓 2nd Year B.Tech IT Student at Narula Institute of Technology.
