@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # I'm Titli Bhowmick! 👋
 
 ### 👩‍💻 About Me
-- 🎓 2nd Year B.Tech IT Student at Narula Institute of Technology.
+- 🎓 Pursuing B.Tech IT at Narula Institute of Technology.
 - 🚀 Passionate about Full-Stack Development and AI.
 - 🛠️ Currently building a QR-based Digital Menu & POS system.
 
